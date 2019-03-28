@@ -25,6 +25,8 @@ Sortie attendue:
 */
 
 function getCampusesTeachingReact(campuses) {
+  let language = campuses.filter(a => a.curriculums.includes('JS/React') === true);
+  return language.map(campuses => campuses.city)
 }
 
 module.exports = getCampusesTeachingReact;
