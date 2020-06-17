@@ -1,5 +1,9 @@
 # Exercices sur map et filter
 
+## Description
+
+Exercices effectués sur les fonctions Map, Array et Filter en Javascript lors de ma formation Web Developer
+
 ## Installation
 
 * [EDIT] **D'abord** forker, **puis** cloner ce repo (indispensable pour Travis, sinon ça marche quand même sans Travis)
