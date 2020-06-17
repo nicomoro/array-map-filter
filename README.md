@@ -4,7 +4,7 @@
 
 Exercices effectués sur les fonctions Map, Array et Filter en Javascript lors de ma formation Web Developer
 
-![Project cover](src/img/wcs-exercices.png)
+![Project cover](img/wcs-exercices.png)
 
 ## Installation
 
