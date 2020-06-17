@@ -4,6 +4,8 @@
 
 Exercices effectués sur les fonctions Map, Array et Filter en Javascript lors de ma formation Web Developer
 
+![Project cover](src/img/wcs-exercices.png)
+
 ## Installation
 
 * [EDIT] **D'abord** forker, **puis** cloner ce repo (indispensable pour Travis, sinon ça marche quand même sans Travis)
